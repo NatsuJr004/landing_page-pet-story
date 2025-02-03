@@ -8,4 +8,4 @@
 
 <img src="./src/assets/image_preview/image-preview-story-pet.png" alt="">
 
-Desenvolvido com 💜 por <a href="https://github.com/Junior042" >EduJr004</a>
+Desenvolvido com 💜 por <a href="https://github.com/NatsuJr004" >Natsu 004</a>
